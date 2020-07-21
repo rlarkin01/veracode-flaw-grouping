@@ -9,7 +9,6 @@ An example of how to create the Credentials file is also provided on the [Veraco
 
 Install dependencies:
 
-    cd veracode-usage-script
     pip install -r requirements.txt
 
 Fix missing code:
